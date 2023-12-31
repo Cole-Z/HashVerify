@@ -4,7 +4,8 @@
 
 Simple GUI to generate a checksum hash for a file or verify a file with a hash.
 
-![image](https://github.com/Cole-Z/HashVerify/assets/98670265/a3672b01-1570-4061-8ece-6e2a7fe3c00d)
+![image](https://github.com/Cole-Z/HashVerify/assets/98670265/bb347953-1281-4e90-b973-54fe6e6a6301)
+
 
 Program is very basic, but does have the ability to provide SHA256, SHA512, and MD5 hashing functions.
 
